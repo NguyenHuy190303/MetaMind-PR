@@ -2,7 +2,7 @@
 
 **Tone: Gây tò mò, mang tính câu chuyện, truyền cảm hứng**
 
-**Nhạc: Phù hợp theo từng hoàn cảnh trong video  (cái này ráng mà lựa thôi)**
+Nhạc: Phù hợp theo từng hoàn cảnh trong video  (cái này ráng mà lựa thôi)
 ---
 
 ## **Phần 1: Truyền cảm hứng**

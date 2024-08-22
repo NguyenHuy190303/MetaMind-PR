@@ -62,4 +62,3 @@
 
 ---
 
-Kịch bản này truyền tải cảm hứng, dẫn dắt người xem từ cảm giác lạc lõng đến việc tìm thấy một cộng đồng, một "bộ lạc" nơi họ thực sự thuộc về. Nó kết hợp sự thay đổi tích cực mà MetaMind mang lại, tạo nên một câu chuyện vừa cảm động vừa mạnh mẽ.

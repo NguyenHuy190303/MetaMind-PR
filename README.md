@@ -43,22 +43,38 @@
 
 ---
 
-## **Phần 2: Giới thiệu chức năng của kênh**
+## **Phần 2: Điểm Sáng Của MetaMind**
+
+---
 
 - **Chuyển cảnh:**
-  - Hình ảnh các trang sách tiếp tục mở ra, với các hoạt động và chức năng của kênh hiện lên: tóm tắt sách, làm DSA, tham gia seminar, thảo luận về AI. Những cảnh này được quay với tông màu sáng và năng động, thể hiện sự sôi nổi và đam mê của các thành viên.
+  - Video mở với hình ảnh các thành viên MetaMind đang tụ tập trong một không gian ấm cúng và thân thiện. Ánh sáng vàng ấm áp bao phủ, tạo cảm giác gần gũi. Các cảnh quay liên tiếp nhau, thể hiện các hoạt động đa dạng và sôi nổi của cộng đồng MetaMind.
 
 - **Lời thoại:**
-  - "Mỗi trang sách là một hoạt động thú vị: Tóm tắt sách cùng nhau, làm DSA mỗi ngày, tổ chức seminar nghiên cứu AI. Tại MetaMind, chúng tôi không ngừng học hỏi và phát triển."
+  - "MetaMind không chỉ là nơi học tập, mà còn là nơi chia sẻ, kết nối và phát triển. Chúng tôi cùng nhau tạo nên những khoảnh khắc đáng nhớ, từ những buổi seminar đầy cảm hứng đến những hoạt động giải trí gắn kết."
 
-- **Giọng kể chuyện (Narration):**
-  - "Cùng nhau, chúng ta tạo nên những câu chuyện mới, những câu chuyện về sự phát triển, học hỏi và thành công."
+- **Hình ảnh:**
+  - **Seminar đầy cảm hứng**: Cảnh các thành viên chăm chú lắng nghe và tham gia thảo luận trong một buổi seminar. Người thuyết trình nhiệt tình chia sẻ, mọi người thảo luận sôi nổi trong kênh chat.
+  - **Karaoke cùng nhau**: Cảnh các thành viên vui vẻ hát karaoke, cười nói sôi nổi. Tất cả cùng nhau hòa vào những bài hát yêu thích, tạo nên không khí vui tươi, rộn ràng.
+  - **Deep talk về nỗi lo và tâm sự thầm kín**: Cảnh một nhóm nhỏ, chia sẻ với nhau những tâm sự sâu kín trong một buổi tối yên tĩnh. Ánh nến lung linh, gương mặt các thành viên hiện lên với sự đồng cảm và chia sẻ thông qua camera.
+
+- **Lời thoại:**
+  - "Những buổi deep talk không chỉ giúp chúng tôi hiểu nhau hơn mà còn là cơ hội để mỗi người được lắng nghe, được đồng cảm, và cùng nhau vượt qua những khó khăn trong cuộc sống."
+
+- **Hình ảnh:**
+  - **Bói tarot và coi nhân tướng**: Cảnh một thành viên trải bài tarot, những người khác hồi hộp chờ đợi kết quả. Nụ cười thoáng hiện trên môi khi nghe lời giải thích về những lá bài.
+  - **Thảo luận về AI**: Cảnh một buổi thảo luận sôi nổi về các vấn đề nghiên cứu trong lĩnh vực AI. Các thành viên nhiệt tình chia sẻ ý kiến, cùng nhau tìm ra những giải pháp mới mẻ.
+  - **Book tutor để vượt qua khó khăn trong học tập**: Cảnh một thành viên đang được tutor giúp đỡ qua màn hình máy tính, cảm giác yên tâm và tự tin hiện rõ khi họ nhận được sự hỗ trợ kịp thời.
+
+- **Lời thoại:**
+  - "MetaMind không chỉ là một cộng đồng, mà còn là một gia đình thứ hai. Chúng tôi cùng nhau học hỏi, cùng nhau phát triển, và cùng nhau vượt qua mọi thử thách."
 
 - **Kết thúc:**
-  - Hình ảnh cuốn sách đóng lại, hiện ra logo của MetaMind với ánh sáng dịu nhẹ, biểu tượng cho sự kết nối và khám phá.
+  - Video kết thúc với hình ảnh cả nhóm MetaMind cùng nhau giơ tay chào đón thành viên mới, nụ cười và niềm vui tràn ngập khắp nơi. Logo của MetaMind hiện lên với ánh sáng dịu nhẹ, biểu tượng cho sự kết nối và khám phá.
 
 - **Lời thoại:**
-  - "Còn bạn thì sao? Hãy gia nhập MetaMind và viết nên câu chuyện của chính mình."
+  - "Còn bạn thì sao? Hãy gia nhập MetaMind và cùng chúng tôi viết nên câu chuyện của chính mình."
+
 
 ---
 

@@ -1,6 +1,7 @@
 # **Kịch bản Video: Hành Trình Tìm Kiếm "Bộ Lạc" Của Bạn**
 
 **Tone: Gây tò mò, mang tính câu chuyện, truyền cảm hứng**
+
 **Nhạc: Phù hợp theo từng hoàn cảnh trong video  (cái này ráng mà lựa thôi)**
 ---
 
